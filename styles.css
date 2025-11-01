@@ -1,0 +1,4 @@
+body { background:#f7f7fb; color:#111; margin:0; padding:0; }
+input, button { padding:10px; border:1px solid #ddd; border-radius:6px; font-size:14px; }
+button { background:#0b5394; color:white; border:none; }
+nav a { text-decoration:none; color:#0b5394; }
